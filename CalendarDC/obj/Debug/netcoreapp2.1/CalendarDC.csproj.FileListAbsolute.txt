@@ -1,0 +1,12 @@
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\CalendarDC.deps.json
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\CalendarDC.runtimeconfig.json
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\CalendarDC.runtimeconfig.dev.json
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\CalendarDC.dll
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.csprojAssemblyReference.cache
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.csproj.CoreCompileInputs.cache
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.AssemblyInfoInputs.cache
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.AssemblyInfo.cs
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\credentials.json
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\bin\Debug\netcoreapp2.1\CalendarDC.pdb
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.dll
+D:\Projects\NET_CORE\CalendarDC\CalendarDC\obj\Debug\netcoreapp2.1\CalendarDC.pdb
